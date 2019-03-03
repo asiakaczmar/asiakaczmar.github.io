@@ -20,10 +20,10 @@ joanna.kaczmar@pwr.edu.pl
 
 Temat zadania | Linki do materiałów
 ------------ | -------------
-Wprowadzenie i zasady zaliczenia | -
-Tutorial do pythona | [link do tutorialu]()
-Regresja liniowa | [link do tutorialu]()
-KNN i Naive Bayes | [link do tutorialu]()
-Regresja logistyczna | [link do tutorialu]()
+Wprowadzenie i zasady zaliczenia | 
+Tutorial do pythona | [link do tutorialu](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/python_wstep.ipynb)
+Regresja liniowa | [link do kodu]()
+KNN i Naive Bayes | [link do kodu]()
+Regresja logistyczna | [link do kodu]()
 Zadanie zaliczeniowe | [link do tutorialu]()
  
