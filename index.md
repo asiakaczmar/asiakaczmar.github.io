@@ -18,8 +18,12 @@ joanna.kaczmar@pwr.edu.pl
 ## Zadania
 
 
-First Header | Second Header
+Temat zadania | Linki do materiałów
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Wprowadzenie i zasady zaliczenia | -
+Tutorial do pythona | [link do tutorialu]()
+Regresja liniowa | [link do tutorialu]()
+KNN i Naive Bayes | [link do tutorialu]()
+Regresja logistyczna | [link do tutorialu]()
+Zadanie zaliczeniowe | [link do tutorialu]()
  
