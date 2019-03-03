@@ -1,11 +1,15 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+# Metody Systemowe i Decyzyjne 2019
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+##Prowadzący:
+**Joanna Kaczmar Michalska**
 
-*This text will be italic*
-_This will also be italic_
+**konsultacje:**
+wtorki 8.00-9.00
+pok. 121, C3
+
+**email:**
+joanna.kaczmar@pwr.edu.pl
+
 
 **This text will be bold**
 __This will also be bold__
