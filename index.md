@@ -1,14 +1,14 @@
 # Metody Systemowe i Decyzyjne 2019
 
-##Prowadzący:
+## Prowadzący:
 **Joanna Kaczmar Michalska**
 
-**konsultacje:**
-wtorki 8.00-9.00
-pok. 121, C3
+**konsultacje:**  
+wtorki 8.00-9.00  
+pok. 121, C3  
 
-**email:**
-joanna.kaczmar@pwr.edu.pl
+**email:**  
+joanna.kaczmar@pwr.edu.pl  
 
 
 **This text will be bold**
