@@ -18,7 +18,7 @@ joanna.kaczmar@pwr.edu.pl
 ## Zadania
 
 
-Temat zadania | Linki do materiałów | Link do instrukcji
+Temat zadania | Linki do instrukcji | Linki do materiałów
 ------------ | ------------- | -------------
 Wprowadzenie i zasady zaliczenia | |
 Tutorial do pythona | | [link do tutorialu](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/python_wstep.ipynb)
