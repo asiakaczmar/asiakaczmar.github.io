@@ -24,6 +24,6 @@ Wprowadzenie i zasady zaliczenia | |
 Tutorial do pythona | | [link do tutorialu](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/python_wstep.ipynb)
 Regresja liniowa | [link do instrukcji](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/01_zad.pdf) | [link do kodu](https://github.com/asiakaczmar/asiakaczmar.github.io/tree/master/zadanie1)
 KNN i Naive Bayes | [link do instrukcji](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/02_zad.pdf) | [link do kodu](https://github.com/asiakaczmar/asiakaczmar.github.io/tree/master/zadanie2)
-Regresja logistyczna | [link do instrukcji]() | [link do kodu]()
-Zadanie zaliczeniowe | [link do instrukcji]() | [link do tutorialu]()
+Regresja logistyczna | [link do instrukcji](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/03_zad.pdf) | [link do kodu](https://github.com/asiakaczmar/asiakaczmar.github.io/tree/master/zadanie3), [prezentacja pomocnicza]()
+Zadanie końcowe | [link do instrukcji](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/04_zad.pdf) | [link do kodu i danych](https://drive.google.com/open?id=1XdHXcLX-1Zf4SVKd1b5heldDBuiuudJx)
  
