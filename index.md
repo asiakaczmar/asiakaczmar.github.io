@@ -11,7 +11,8 @@ pok. 121, C3
 **email:**  
 joanna.kaczmar@pwr.edu.pl  
 
-
+## Wyniki:
+[Wyniki ostatecznej ewaluacji](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/wyniki%20msid.pdf)
 ## Zasady zaliczenia:
 [Zasady zaliczenia można znaleźć tutaj](https://github.com/asiakaczmar/asiakaczmar.github.io/blob/master/zasady_zaliczenia_msid_2019.pdf)
 
